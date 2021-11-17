@@ -86,6 +86,7 @@ public class Ruleta {
         if (ganado == true) 
         {
             dinero_tienes = dinero_tienes + dinero_ganado;
+            
         }
         else if (ganado == false) 
         {
